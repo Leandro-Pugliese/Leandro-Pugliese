@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leandro-Pugliese.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently doing web development using MERN Stack (MongoDB, React.js, Node.js and Express).
+- 🌱 I’m currently doing web development using MERN Stack (MongoDB, Express, React.js and Node.js).
 - 💞️ I’m looking to collaborate on online apps and sistems proyects.
 - 📫 How to reach me: +54 9 11-3047-2114 or lean.pugliese@gmail.com
